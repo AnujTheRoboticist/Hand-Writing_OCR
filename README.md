@@ -1,4 +1,4 @@
-The project tries to create software for recognition of a handwritten text from photos (also for Czech language). It uses computer vision and machine learning.
+The project tries to create software for recognition of a handwritten text from photos. It uses computer vision and machine learning.
 Proces of recognition is divided into 4 steps. The initial input is a photo of page with text.
 
 1] Detection of page and removal of background <br>
